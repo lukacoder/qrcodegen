@@ -1,4 +1,5 @@
-Generate QR codes.
+<h1>pip install qrcode</h1>
+<Generate QR codes.
 
 For a standard install (which will include pillow for generating images), run:
 
