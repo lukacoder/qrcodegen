@@ -8,7 +8,7 @@ qr = qrcode.QRCode(
 print("--------------------------------------")
 print("")
 print("")
-print("                 KEDY CODER           ")
+print("                 LUKA CODER           ")
 print("")
 print("")
 print("--------------------------------------")
